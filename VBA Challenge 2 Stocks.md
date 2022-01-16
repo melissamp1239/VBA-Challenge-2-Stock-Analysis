@@ -8,6 +8,7 @@ Instead of reviewing only a dozen stocks, Steve wants to expand his analysis to 
 ## Results
 
 The refactored program starts with the question, What year would you like to run the analysis on?
+![This is an image](https://github.com/melissamp1239/VBA-Challenge-2-Stock-Analysis/blob/main/Question.png)
 
 **The following is an an example of the code used to ask this question:**
 ` yearValue = InputBox("What year would you like to run the analysis on?")`
