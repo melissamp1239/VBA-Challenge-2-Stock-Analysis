@@ -12,7 +12,7 @@ The refactored program starts with the question, What year would you like to run
 **The following is an an example of the code used to ask this question:**
 ` yearValue = InputBox("What year would you like to run the analysis on?")`
 
-The refactored code tended to run faster in 2018 (0.06252018 seconds) than in 2017 (0.3320313). 
+The refactored code tended to run faster in 2017 (0.06252018 seconds) than in 2018 (0.0859375). 
 
 **2017 Code Timing**
 ![This is an image](https://github.com/melissamp1239/VBA-Challenge-2-Stock-Analysis/blob/main/2017refactored_time.png)
