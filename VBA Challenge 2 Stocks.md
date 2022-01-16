@@ -15,6 +15,7 @@ The refactored program starts with the question, What year would you like to run
 The refactored code tended to run faster in 2018 (0.06252018 seconds) than in 2017 (0.3320313). 
 
 **2017 Code Timing**
+![This is and image](https://github.com/melissamp1239/VBA-Challenge-2-Stock-Analysis/blob/main/2017refactored_time.png)
 
 **2018 Code Timing**
 
