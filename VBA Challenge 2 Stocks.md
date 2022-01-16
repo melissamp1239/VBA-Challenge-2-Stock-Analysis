@@ -15,10 +15,10 @@ The refactored program starts with the question, What year would you like to run
 The refactored code tended to run faster in 2018 (0.06252018 seconds) than in 2017 (0.3320313). 
 
 **2017 Code Timing**
-![This is and image](https://github.com/melissamp1239/VBA-Challenge-2-Stock-Analysis/blob/main/2017refactored_time.png)
+![This is an image](https://github.com/melissamp1239/VBA-Challenge-2-Stock-Analysis/blob/main/2017refactored_time.png)
 
 **2018 Code Timing**
-
+![This is an image] (https://github.com/melissamp1239/VBA-Challenge-2-Stock-Analysis/blob/main/2018_refactored_time.png)
 
 Overall,the annual returns for the tickers measured were better in 2017 than in 2018. The stocks with the best annualized returns in 2018 were ENPH (81.9%) and RUN (84.0)%. Interesting, the annualized rate of return for ticker ENPH was actually higher in 2017 (129.5%) compared to 2018 (81.9%).
 
