@@ -19,6 +19,7 @@ The refactored code tended to run faster in 2018 (0.06252018 seconds) than in 20
 
 **2018 Code Timing**
 
+
 Overall,the annual returns for the tickers measured were better in 2017 than in 2018. The stocks with the best annualized returns in 2018 were ENPH (81.9%) and RUN (84.0)%. Interesting, the annualized rate of return for ticker ENPH was actually higher in 2017 (129.5%) compared to 2018 (81.9%).
 
 **Challenges
