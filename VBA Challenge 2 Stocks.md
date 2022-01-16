@@ -44,22 +44,22 @@ I found the following code requiring moving through the tickers challenging to w
     
    ` Next i`
 
-##Summary##
+## Summary
 
-###Advantages and Disadvantages of refactoring code###
+### Advantages and Disadvantages of refactoring code
 [(https://stackoverflow.com/questions/43983284/what-are-the-advantages-and-disadvantages-of-refactoring-code-smell-in-software)]
 
-According to Martin Fowler (Father of Code Smell), the advantages and disadvantages of refactoring are:
+According to Martin Fowler (Father of Code Smell), the **advantages** and disadvantages of refactoring are:
     1. Refactoring improves the design of software
     2. Refactoring makes software easier to understand
     3. Refactoring Helps Findig Bugs
     4. Refactoring Helpfs Programming Faster
 
-Disdvantages include:
+**Disdvantages** include:
     1. Run out of money
     2. Run out of time
 
-###Pros and Cons of the original and refactored VBA Script
+### Pros and Cons of the original and refactored VBA Script
 
 The original DQ Analysis code would require much more voluminous code to put in the individual tickers to loop over all of the rows and tickers.  Instead, we refactored that part of the code with the code I list under the *Challenge* section of this document. This is much more concise code.
 
