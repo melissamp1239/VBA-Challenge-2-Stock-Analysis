@@ -47,7 +47,7 @@ I found the following code requiring moving through the tickers challenging to w
 ## Summary
 
 ### Advantages and Disadvantages of refactoring code
-[(https://stackoverflow.com/questions/43983284/what-are-the-advantages-and-disadvantages-of-refactoring-code-smell-in-software)]
+The source of advantages and disadvantages comes from the following: [(https://stackoverflow.com/questions/43983284/what-are-the-advantages-and-disadvantages-of-refactoring-code-smell-in-software)]
 
 According to Martin Fowler (Father of Code Smell), the **advantages** and disadvantages of refactoring are:
     1. Refactoring improves the design of software
