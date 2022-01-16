@@ -20,7 +20,7 @@ The refactored code tended to run faster in 2018 (0.06252018 seconds) than in 20
 
 Overall,the annual returns for the tickers measured were better in 2017 than in 2018. The stocks with the best annualized returns in 2018 were ENPH (81.9%) and RUN (84.0)%. Interesting, the annualized rate of return for ticker ENPH was actually higher in 2017 (129.5%) compared to 2018 (81.9%).
 
-#Challenges
+**Challenges
 
 I found the following code requiring moving through the tickers challenging to write, but it helped the program move quickly through the data:
 
@@ -73,7 +73,7 @@ Additionally, you have to know how long your list is with the original code.
 
 Additionally, via a popup box, the refactored code program asks the user what year they want to look at.  However, for the original code, you would have to specify a new year in the code.
 
-If you did not have much time to refactor your code I think the original code would be good.  The original code is much easier for a new programmer to understand.
+If you did not have much time to refactor your code, I think that patterning your code after the the original code would be good.  The original code is much easier for a new programmer to understand.
 
 
 
